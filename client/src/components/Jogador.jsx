@@ -1,0 +1,1 @@
+// Componente visual de jogador com avatar, cor e nome

@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.8ea0c043.js",
+    "main.js": "/static/js/main.42867046.js",
     "index.html": "/index.html",
-    "main.8ea0c043.js.map": "/static/js/main.8ea0c043.js.map"
+    "static/media/comprar.mp3": "/static/media/comprar.31d6cfe0d16ae931b73c.mp3",
+    "static/media/dice.mp3": "/static/media/dice.31d6cfe0d16ae931b73c.mp3",
+    "static/media/prisao.mp3": "/static/media/prisao.31d6cfe0d16ae931b73c.mp3",
+    "main.42867046.js.map": "/static/js/main.42867046.js.map"
   },
   "entrypoints": [
-    "static/js/main.8ea0c043.js"
+    "static/js/main.42867046.js"
   ]
 }
