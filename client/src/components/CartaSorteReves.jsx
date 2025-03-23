@@ -1,0 +1,1 @@
+// Componente de exibição e lógica de cartas de sorte ou revés

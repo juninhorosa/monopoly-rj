@@ -1,1 +1,1 @@
-// game.js com 40 propriedades, valores reais e lógica de IA atualizada
+// game.js com regras reais, aluguel dinâmico, construção, falência, sorte/revés

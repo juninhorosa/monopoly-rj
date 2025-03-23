@@ -1,1 +1,1 @@
-// App.js com sons, mensagens reais e integração com propriedades Estrela
+// App.js com todas funcionalidades: tabuleiro, dados, IA, casas, hotéis, sorte/revés

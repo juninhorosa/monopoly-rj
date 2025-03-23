@@ -1,1 +1,1 @@
-// Tabuleiro visual com casas reais do Banco Imobiliário Estrela
+// Tabuleiro.jsx com propriedades reais, visual completo e suporte a peças/avatares
