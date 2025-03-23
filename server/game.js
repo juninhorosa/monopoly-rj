@@ -1,1 +1,1 @@
-// Regras do jogo, turnos, propriedades, IA
+// Regras do jogo, propriedades, lógica da IA e eventos
