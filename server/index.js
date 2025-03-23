@@ -1,1 +1,5 @@
-// index.js com Express, Socket.IO, lógica de jogo, salas, detecção de porta
+const PORT = process.env.PORT || 3000;
+
+server.listen(PORT, () => {
+  console.log(`🚀 Servidor rodando na porta ${PORT}`);
+});
