@@ -1,1 +1,1 @@
-// Lógica do jogo Monopoly RJ
+// Regras do jogo, turnos, propriedades, IA
