@@ -1,1 +1,1 @@
-// ReactDOM que renderiza App.js com funcionalidades completas
+// ReactDOM renderizando App

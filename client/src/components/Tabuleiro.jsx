@@ -1,1 +1,1 @@
-// Tabuleiro.jsx com propriedades reais, visual completo e suporte a peças/avatares
+// Tabuleiro visual completo com 40 casas reais

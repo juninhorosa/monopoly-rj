@@ -1,1 +1,1 @@
-// game.js com regras reais, aluguel dinâmico, construção, falência, sorte/revés
+// Lógica de propriedades, sorte/revés, saldo, casas/hotéis

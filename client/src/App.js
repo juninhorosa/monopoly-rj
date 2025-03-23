@@ -1,1 +1,1 @@
-// App.js com todas funcionalidades: tabuleiro, dados, IA, casas, hotéis, sorte/revés
+// App.js com menu IA/Multiplayer, nova interface
